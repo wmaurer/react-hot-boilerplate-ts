@@ -1,0 +1,29 @@
+{
+  "name": "react-hot-boilerplate-ts",
+  "version": "1.0.0",
+  "description": "(Almost) minimal live-editing boilerplate for your next ReactJS/Typescript project",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wmaurer/react-hot-boilerplate-ts.git"
+  },
+  "author": "Wayne Maurer <wayne@waynemaurer.net> (http://github.com/wmaurer)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wmaurer/react-hot-boilerplate-ts/issues"
+  },
+  "homepage": "https://github.com/wmaurer/react-hot-boilerplate-ts",
+  "dependencies": {
+    "react": "^0.13.3"
+  },
+  "devDependencies": {
+    "react-hot-loader": "^1.3.0",
+    "ts-loader": "^0.5.5",
+    "tsd": "^0.6.4",
+    "typescript": "^1.6.2",
+    "webpack": "^1.12.2",
+    "webpack-dev-server": "^1.12.0"
+  }
+}
