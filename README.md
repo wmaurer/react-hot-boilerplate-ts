@@ -3,8 +3,7 @@ react-hot-boilerplate-ts
 
 An (almost) minimal dev environment to enable live-editing Typescript/ReactJS components.
 
-This a copy of Dan Abramov's react-hot-boilerplate (https://github.com/gaearon/react-hot-boilerplate),
-but uses ts-loader/Typescript instead of babel-loader/Babel.
+This a copy of Dan Abramov's react-hot-boilerplate (https://github.com/gaearon/react-hot-boilerplate), but uses ts-loader/Typescript instead of babel-loader/Babel.
 
 ### Usage
 
@@ -22,8 +21,7 @@ The `App` component has a `name` property which has been defined on the interfac
 
 If you were to remove the name property when using the component (in `index.tsx`), then you'll receive a typescript compile error.
 
-If you're using a suitable advanced editor or editor plugin, you'll also get
-intellisense and edit-time error messages. This works with the [atom](http://atom.io) editor and the atom [atom-typescript](https://atom.io/packages/atom-typescript) plugin.
+If you're using a suitably advanced editor or editor plugin, you'll also get intellisense and edit-time error messages. This works with the [atom](http://atom.io) editor and the atom [atom-typescript](https://atom.io/packages/atom-typescript) plugin.
 
 ### TODO
 
@@ -41,4 +39,4 @@ tslint
 ### Resources
 
 * [react-hot-boilerplate on Github](https://github.com/gaearon/react-hot-boilerplate)
-* Ping wmaurer on Twitter
+* Ping [waynemaurer](https://twitter.com/waynemaurer) on Twitter
