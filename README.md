@@ -1,3 +1,7 @@
+>## Deprecation Notice
+
+>This boilerplate is based on [react-hot-loader](https://github.com/gaearon/react-hot-loader) which is deprecated. A new boilerplate which uses React Transform, can be found [here](https://github.com/wmaurer/react-transform-boilerplate-ts).
+
 react-hot-boilerplate-ts
 ========================
 
